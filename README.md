@@ -1,1 +1,1 @@
-# BGMI-Main
+# BGMI
